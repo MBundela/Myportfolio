@@ -482,10 +482,10 @@ span{
 
 @media (max-width:365px){
     .home-img img{
-        width: 90vw;
+        width: 80vw;
     }
     .about-img img{
-        width: 90vw;
+        width: 80vw;
     }
     .footer{
         flex-direction: column-reverse;
