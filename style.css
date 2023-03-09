@@ -443,7 +443,7 @@ span{
         font-size: 5rem;
     }
     .home-img img{
-        width: 60vw;
+        width: 80vw;
         margin-top: 4rem;
     }
 
@@ -451,7 +451,7 @@ span{
         flex-direction:column-reverse;
     }
     .about img{
-        width: 60vw;
+        width: 80vw;
         margin-top: 4rem;
     }
     .service h2{
